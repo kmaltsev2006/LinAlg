@@ -1,4 +1,4 @@
-# linalg
+# LinAlg
 
 ## Сборка
 ```bash
